@@ -1,0 +1,6 @@
+﻿  PreventiveDrivingSystem.cpp
+C:\Users\idan-\Projects\C\PreventiveDrivingSystem\System\PreventiveDrivingSystem.cpp(33,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\idan-\Projects\C\PreventiveDrivingSystem\System\PreventiveDrivingSystem.cpp(129,20): warning C4018: '<': signed/unsigned mismatch
+  stdafx.cpp
+  Generating Code...
+  PreventiveDrivingSystem.vcxproj -> C:\Users\idan-\Projects\C\PreventiveDrivingSystem\Debug\PreventiveDrivingSystem.exe
