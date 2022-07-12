@@ -11,7 +11,7 @@ Registration system for a Preventive Driving course
 2. Delete --> removes participant from the course
 3. Print --> prints all registered participants
 4. Increase --> Increases the array of participants 
-5. Shrink --> rducing "holes" in the array
+5. Shrink --> reducing "holes" in the array
 6. Sort By Points --> sorts the array by points
 7. Sort By Names --> sorts the array by names
 8. Exit
